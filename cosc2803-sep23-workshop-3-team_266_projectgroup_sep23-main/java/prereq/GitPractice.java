@@ -22,15 +22,16 @@ public class GitPractice {
 
    public static void groupMember2() {
       // TODO: Group Member 2, place your code here
+      System.out.printn("My name is Pratyaksh Basel. I am Group member 2.");
    }
 
    public static void groupMember3() {
-      
+      System.out.println("There is no groupn member 3");
    }
 
    public static void mergeConflictArea() {
-      // TODO: All Group members uncomment and update this line of code
-      //System.out.println("CHANGE ME");
+      
+      System.out.println("This is just a piece of code");
    }
 
 }
